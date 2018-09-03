@@ -1,5 +1,6 @@
 # rdp_16s_v16_sp_ManualAdjustment
-# For comments and questions, please contact Li Zhang <li.zhang2016@outlook.com> or Zhilong Jia <zhilongjia@gmail.com>.
+
+For comments and questions, please contact Li Zhang <li.zhang2016@outlook.com> or Zhilong Jia <zhilongjia@gmail.com>.
 
 "rdp_16s_v16s_sp_ManualAdjustment201808.fa" is a manually reviewed and adjusted database for taxonomy classification based on 16S rRNA gene sequences.
 
