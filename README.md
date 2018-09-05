@@ -3,7 +3,7 @@
 
 **rdp_16s_v16s_sp_ManualAdjustment201808.fa** is a manually reviewed and adjusted database for taxonomy classification based on 16S rRNA gene sequences. This database is modified from [rdp_16s_v16s_sp.fa](https://www.drive5.com/sintax/rdp_16s_v16_sp.fa.gz), which is a RDP training set with species names.
 
-**rdp_16s_v16s_sp_adjustment_list.tsv** details a total of 902 taxonomy lable changes. 
+**rdp_16s_v16s_sp_adjustment_list.tsv** details a total of 902 taxonomy label changes. 
 
 In brief, the following types of adjustement were made:
 
